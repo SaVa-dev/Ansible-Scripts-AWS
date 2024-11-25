@@ -1,0 +1,5 @@
+# Ansible-Scripts-AWS
+Este repositorio contiene scripts de Ansible diseñados para ejecutarse en AWS Systems Manager.  
+
+## Scripts disponibles
+- `webserver.yml`: Configura un servidor web básico en una instancia de EC2.
